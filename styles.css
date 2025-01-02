@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+
+#main-container{
+	border: 2px black solid;
+	border-radius:10px;
+	padding:50px
+}
+
+#verification_heading{
+	text-align: center;
+}
+
+    .code{
+            width: 40px;
+            height: 40px;
+            font-size: 18px;
+            text-align: center;
+            margin: 5px;
+        }
+        .code-container  {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+        }
+
+
